@@ -1,2 +1,0 @@
-# dataciencecoursera
-very informative
